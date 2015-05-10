@@ -1,0 +1,11 @@
+{
+  "name": "atom-flat-syntax",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "Yet another flat syntax theme",
+  "repository": "https://github.com/mraypold/atom-flat-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  }
+}
